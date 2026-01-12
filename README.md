@@ -19,13 +19,12 @@
 ### 📫 Connect with Me
 * 📧 Email: b.pelin6567@gmail.com
 
-### 🤝 Bana Ulaşın
+<div style="display: flex; gap: 15px;"> <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35" height="35" alt="linkedin" />
+  </a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin" style="margin-right: 10px;" />
-  </a>
   <a href="https://www.instagram.com/pelincamp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="35" height="35" alt="instagram" />
   </a>
-</p>
+
+</div>
