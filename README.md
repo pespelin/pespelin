@@ -19,12 +19,14 @@
 ### 📫 Connect with Me
 * 📧 Email: b.pelin6567@gmail.com
 
-<div style="display: flex; gap: 15px;"> <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35" height="35" alt="linkedin" />
+### 🤝 Bana Ulaşın
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="130" alt="linkedin" />
   </a>
 
-  <a href="https://www.instagram.com/pelincamp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="35" height="35" alt="instagram" />
+  <a href="https://www.instagram.com/pelincamp/" target="_blank" style="margin-left: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="instagram" />
   </a>
-
-</div>
+</p>
