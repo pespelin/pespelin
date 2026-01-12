@@ -19,8 +19,13 @@
 ### 📫 Connect with Me
 * 📧 Email: b.pelin6567@gmail.com
 
-<img src="https://skillicons.dev/icons?i=linkedin,instagram" usemap="#socialmap" alt="social media icons" />
-<map name="socialmap">
-  <area shape="rect" coords="0,0,48,48" alt="LinkedIn" href="https://www.linkedin.com/in/pelincamp" />
-  <area shape="rect" coords="60,0,108,48" alt="Instagram" href="https://www.instagram.com/pelincamp/" />
-</map>
+### 🤝 Bana Ulaşın
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/pelincamp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram" />
+  </a>
+</p>
