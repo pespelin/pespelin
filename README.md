@@ -19,8 +19,6 @@
 ### 📫 Connect with Me
 * 📧 Email: b.pelin6567@gmail.com
 
-### 🤝 Bana Ulaşın
-
 <p align="left">
   <a href="https://www.linkedin.com/in/pelincamp" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="130" alt="linkedin" />
