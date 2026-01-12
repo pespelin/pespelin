@@ -1,16 +1,20 @@
-## Hi there 👋
+# Selam, Ben Pelin! 👋
 
-<!--
-**pespelin/pespelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Hakkımda
+* 🔭 Şu anda **Java ve Veri Yapıları** üzerine çalışıyorum.
+* 🌱 **Mobil Oyun Geliştirme** ve **iOS** dünyasına adım atıyorum.
+* 🎓 Bilgisayar Mühendisliği öğrencisiyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Diller ve Araçlar
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,github,vscode,eclipse,html,css,mysql,idea&perline=10" />
+  </a>
+</p>
+
+### 📫 Bana Ulaşın
+* 📧 E-posta: b.pelin6567@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/pelincamp
