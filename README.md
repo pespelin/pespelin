@@ -17,4 +17,13 @@
 
 ### 📫 Bana Ulaşın
 * 📧 E-posta: b.pelin6567@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/pelincamp
+### 🤝 Bana Ulaşın
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/pelincamp">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pelincamp/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  </a>
+</div>
