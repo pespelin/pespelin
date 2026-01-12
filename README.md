@@ -1,13 +1,13 @@
-# Selam, Ben Pelin! 👋
+# Hi, I'm Pelin! 👋
 
-### 👩‍💻 Hakkımda
-* 🔭 Şu anda **Java ve Veri Yapıları** üzerine çalışıyorum.
-* 🌱 **Mobil Oyun Geliştirme** ve **iOS** dünyasına adım atıyorum.
-* 🎓 Bilgisayar Mühendisliği öğrencisiyim.
+### 👩‍💻 About Me
+* 🔭 I’m currently working on **Java and Data Structures**.
+* 🌱 I’m currently learning **Mobile Game Development** and **iOS**.
+* 🎓 I’m a Computer Engineering student.
 
 ---
 
-### 🛠️ Diller ve Araçlar
+### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -15,15 +15,12 @@
   </a>
 </p>
 
-### 📫 Bana Ulaşın
-* 📧 E-posta: b.pelin6567@gmail.com
-### 🤝 Bana Ulaşın
+ 
+### 📫 Connect with Me
+* 📧 Email: b.pelin6567@gmail.com
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/pelincamp">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/pelincamp/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=linkedin,instagram" usemap="#socialmap" alt="social media icons" />
+<map name="socialmap">
+  <area shape="rect" coords="0,0,48,48" alt="LinkedIn" href="https://www.linkedin.com/in/pelincamp" />
+  <area shape="rect" coords="60,0,108,48" alt="Instagram" href="https://www.instagram.com/pelincamp/" />
+</map>
